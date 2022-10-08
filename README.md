@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varshini
+- 👋 Hi, I’m Varshini
 - 👀 I’m interested in coding for fun
 - 🌱 I’m currently learning DL
 
